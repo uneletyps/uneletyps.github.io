@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uneletyps.github.io/sitemap
+Sitemap: https://uneletyps.github.io/app/sitemap
+Sitemap: https://uneletyps.github.io/assets/sitemap
+Sitemap: https://uneletyps.github.io/css/sitemap
+Sitemap: https://uneletyps.github.io/includes/sitemap
+Sitemap: https://uneletyps.github.io/item/sitemap
+Sitemap: https://uneletyps.github.io/src/sitemap
